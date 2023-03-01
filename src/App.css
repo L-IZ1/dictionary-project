@@ -1,2 +1,10 @@
 body{
   background: #118a7e;}
+
+  .App-header{
+    font-size: 26px;
+    text-align: center;
+  }
+  .App-footer{
+    font-size: 18px;
+  }
